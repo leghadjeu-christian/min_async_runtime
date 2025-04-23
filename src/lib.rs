@@ -13,4 +13,3 @@ pub mod task;
 pub mod time;
 pub mod utils;
 
-pub use hooch_macro::*;
